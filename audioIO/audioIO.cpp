@@ -204,7 +204,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		CALLBACK_FUNCTION   // コールバック関数の属性
 		)
 		!= MMSYSERR_NOERROR)
-		cout << "Erroe" << endl;
+		cout << "Error" << endl;
 
 
 	// 音声ファイルのパラメータを設定
